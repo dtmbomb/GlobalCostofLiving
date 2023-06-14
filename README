@@ -7,6 +7,10 @@ This is just for practice and for my own interest.
 Exact accuracy is not critical for my purposes.
 Trusting data will be accurate enough for entertainment and practice.
 
+Of the data that is availalbe and provided below I marked and selected those I am intersted in, marked y (for yes intersted).
+I will be renaming the columns to easier to understand at a glance headers. 
+Full column detail will always be available here.
+
 	x1	Meal, Inexpensive Restaurant (USD)
 	x2	Meal for 2 People, Mid-range Restaurant, Three-course (USD)
 y	x3	McMeal at McDonalds (or Equivalent Combo Meal) (USD)
@@ -53,13 +57,13 @@ y	x41	Cinema, International Release, 1 Seat (USD)
 y	x44	1 Pair of Jeans (Levis 501 Or Similar) (USD)
 	x45	1 Summer Dress in a Chain Store (Zara, H&M, …) (USD)
 y	x46	1 Pair of Nike Running Shoes (Mid-Range) (USD)
-y	x47	1 Pair of Men Leather Business Shoes (USD)
+	x47	1 Pair of Men Leather Business Shoes (USD)
 y	x48	Apartment (1 bedroom) in City Centre (USD)
-y	x49	Apartment (1 bedroom) Outside of Centre (USD)
+	x49	Apartment (1 bedroom) Outside of Centre (USD)
 y	x50	Apartment (3 bedrooms) in City Centre (USD)
-y	x51	Apartment (3 bedrooms) Outside of Centre (USD)
+	x51	Apartment (3 bedrooms) Outside of Centre (USD)
 y	x52	Price per Square Meter to Buy Apartment in City Centre (USD)
-y	x53	Price per Square Meter to Buy Apartment Outside of Centre (USD)
+1	x53	Price per Square Meter to Buy Apartment Outside of Centre (USD)
 y	x54	Average Monthly Net Salary (After Tax) (USD)
 y	x55	Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate
 	data_quality	0 if Numbeo considers that more contributors are needed to increase data quality, else 1
